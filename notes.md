@@ -1,3 +1,10 @@
+# Titanic Data Analysis Project
+
+This project analyses the Titanic dataset using Python and pandas.
+
+The goal is to identify survival trends and patterns in the data using grouping and visualisation techniques.
+
+
 **df.groupby(["Sex", "Pclass"])["Survived"].mean()**
 
 What this shows:
@@ -23,11 +30,11 @@ os.listdir()**
 if you cant find something in github run this to find out whats saved in your notebook and under what name cause it could be your refercing the wrong name 
 
 
-Titanic Data Analysis
+# Titanic Data Analysis
 
-Key Insights:
+## Key Insights
 
-1. Female passengers had a much higher survival rate than male passengers.
+1. Female passengers had a much higher survival mrate than male passengers.
 
 2. First-class passengers had the highest survival rate.
 
