@@ -18,4 +18,21 @@ This gives you a histogram where you can customise the number 30 to give u a dif
 **df["column_name"].plot(kind="line")**
 This gives you a line graph
 
+**import os
+os.listdir()**
+if you cant find something in github run this to find out whats saved in your notebook and under what name cause it could be your refercing the wrong name 
 
+
+Titanic Data Analysis
+
+Key Insights:
+
+1. Female passengers had a much higher survival rate than male passengers.
+
+2. First-class passengers had the highest survival rate.
+
+3. Most passengers travelled in third class.
+
+4. Ticket prices were significantly higher in first class.
+
+5. Most passengers were between 20 and 40 years old.
